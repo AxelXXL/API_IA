@@ -5,11 +5,16 @@ En este proyecto se utiliza una API KEY de Google AI Studio para utilizar GEMINI
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+1. Clona este repositorio: `[git clone https://github.com/tu-usuario/tu-proyecto.git](https://github.com/AxelXXL/API_IA.git)`
 2. Navega al directorio del proyecto: `cd tu-proyecto`
+3. Instala las dependencias: `pip install` 
 
 ## Uso
+La API esta creado con FastAPI que utiliza el modelo de inteligencia artificial de Gemini(por su API KEY) para generar contenido con el contexto de agricultura y asi ofrecer respuestas certeras. Extrae configuraciones de archivos JSON para obtener prompts, y maneja solicitudes POST con parámetros específicos que devuelve el resultado generado por el modelo.
 
-Explica cómo utilizar tu proyecto. Proporciona ejemplos y comandos relevantes.
+## Tecnologías
+Python
+Angular
+TypeScript
 
 
